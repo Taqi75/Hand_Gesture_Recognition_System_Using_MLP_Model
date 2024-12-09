@@ -5,6 +5,7 @@ This project uses MediaPipe, TensorFlow, and OpenCV to recognize hand gestures i
 You can go through the powerpoint presentation and that should help you understand the gist of it.
 
 To run this project, ensure you have the following installed:
+
 a) Python 3.7 or later
 
 b) OpenCV
