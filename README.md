@@ -1,1 +1,1 @@
-# Hand_Gesture_Recognition_System_Using_MLP_Model
+USER DOCUMENTATION MANUAL
